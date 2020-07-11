@@ -1,0 +1,11 @@
+<suite name = "Assessment Service APIs ">
+    <listeners>
+        <listener class-name= "core.listener_and_reporting.TestListener"/>
+    </listeners>
+
+    <test name="Assessment Service API test cases" verbose="2" preserve-order="true">
+        <classes>
+            <class name = "test.CompareJsonTests"/>
+        </classes>
+    </test>
+</suite>

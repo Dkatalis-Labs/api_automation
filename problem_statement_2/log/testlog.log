@@ -1,0 +1,34 @@
+2020-07-11 21:32:40,225 - test.CompareJsonTests -INFO - Test scenario : Positive - Verifying with passing User_Id 1 : 
+2020-07-11 21:32:43,655 - test.CompareJsonTests -INFO - Response Body : {"data":{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/calebogden/128.jpg"},"ad":{"company":"StatusCode Weekly","url":"http://statuscode.org/","text":"A weekly newsletter focusing on software development, infrastructure, the server, performance, and the stack end of things."}}
+2020-07-11 21:32:43,656 - test.CompareJsonTests -INFO - Response 1 : {"data":{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/calebogden/128.jpg"},"ad":{"company":"StatusCode Weekly","url":"http://statuscode.org/","text":"A weekly newsletter focusing on software development, infrastructure, the server, performance, and the stack end of things."}}
+2020-07-11 21:32:44,287 - test.CompareJsonTests -INFO - API is taking less than 300 millisecond ::: 586
+2020-07-11 21:32:45,089 - test.CompareJsonTests -INFO - Json compared successfully
+2020-07-11 21:32:45,090 - test.CompareJsonTests -INFO - *************** Test Executed Successfully ***************
+2020-07-11 21:32:45,093 - test.CompareJsonTests -INFO - Test scenario : Positive - Verifying with passing User_Id 2 : 
+2020-07-11 21:32:46,972 - test.CompareJsonTests -INFO - Response Body : {"data":{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/josephstein/128.jpg"},"ad":{"company":"StatusCode Weekly","url":"http://statuscode.org/","text":"A weekly newsletter focusing on software development, infrastructure, the server, performance, and the stack end of things."}}
+2020-07-11 21:32:48,915 - test.CompareJsonTests -INFO - API is taking less than 300 millisecond ::: 1894
+2020-07-11 21:32:48,918 - test.CompareJsonTests -INFO - Json compared successfully
+2020-07-11 21:32:48,919 - test.CompareJsonTests -INFO - *************** Test Executed Successfully ***************
+2020-07-11 21:32:48,924 - test.CompareJsonTests -INFO - Json compared successfully
+2020-07-11 21:32:48,926 - test.CompareJsonTests -INFO - *************** Test Executed Successfully ***************
+2020-07-11 21:33:06,781 - core.listener_and_reporting.TestListener -INFO - *** Test Suite Assessment Service API test cases started ***
+2020-07-11 21:33:06,881 - core.listener_and_reporting.TestListener -INFO - *** Running test method verifyJsonIsEqual...
+2020-07-11 21:33:09,463 - test.CompareJsonTests -INFO - Test scenario : Positive - Verifying with passing User_Id 1 : 
+2020-07-11 21:33:14,497 - test.CompareJsonTests -INFO - Response Body : {"data":{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/calebogden/128.jpg"},"ad":{"company":"StatusCode Weekly","url":"http://statuscode.org/","text":"A weekly newsletter focusing on software development, infrastructure, the server, performance, and the stack end of things."}}
+2020-07-11 21:33:14,499 - test.CompareJsonTests -INFO - Response 1 : {"data":{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/calebogden/128.jpg"},"ad":{"company":"StatusCode Weekly","url":"http://statuscode.org/","text":"A weekly newsletter focusing on software development, infrastructure, the server, performance, and the stack end of things."}}
+2020-07-11 21:33:15,461 - test.CompareJsonTests -INFO - API is taking less than 300 millisecond ::: 908
+2020-07-11 21:33:16,069 - test.CompareJsonTests -INFO - Json compared successfully
+2020-07-11 21:33:16,077 - test.CompareJsonTests -INFO - *************** Test Executed Successfully ***************
+2020-07-11 21:33:16,083 - core.listener_and_reporting.TestListener -INFO - *** Executed verifyJsonIsEqual test successfully...
+2020-07-11 21:33:16,111 - core.listener_and_reporting.TestListener -INFO - *** Running test method verifyJsonIsEqual...
+2020-07-11 21:33:16,116 - test.CompareJsonTests -INFO - Test scenario : Positive - Verifying with passing User_Id 2 : 
+2020-07-11 21:33:17,649 - test.CompareJsonTests -INFO - Response Body : {"data":{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/josephstein/128.jpg"},"ad":{"company":"StatusCode Weekly","url":"http://statuscode.org/","text":"A weekly newsletter focusing on software development, infrastructure, the server, performance, and the stack end of things."}}
+2020-07-11 21:33:18,212 - test.CompareJsonTests -INFO - API is taking less than 300 millisecond ::: 551
+2020-07-11 21:33:18,214 - test.CompareJsonTests -INFO - Json compared successfully
+2020-07-11 21:33:18,215 - test.CompareJsonTests -INFO - *************** Test Executed Successfully ***************
+2020-07-11 21:33:18,215 - core.listener_and_reporting.TestListener -INFO - *** Executed verifyJsonIsEqual test successfully...
+2020-07-11 21:33:18,218 - core.listener_and_reporting.TestListener -INFO - *** Running test method verifyJsonIsEqual...
+2020-07-11 21:33:18,221 - test.CompareJsonTests -INFO - Json compared successfully
+2020-07-11 21:33:18,221 - test.CompareJsonTests -INFO - *************** Test Executed Successfully ***************
+2020-07-11 21:33:18,222 - core.listener_and_reporting.TestListener -INFO - *** Executed verifyJsonIsEqual test successfully...
+2020-07-11 21:33:18,227 - core.listener_and_reporting.TestListener -INFO - *** Test Suite Assessment Service API test cases ending ***
